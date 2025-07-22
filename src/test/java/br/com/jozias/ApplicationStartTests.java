@@ -1,10 +1,10 @@
-package br.com.jozias.greetingservice;
+package br.com.jozias;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GreetingServiceApplicationTests {
+class ApplicationStartTests {
 
     @Test
     void contextLoads() {
